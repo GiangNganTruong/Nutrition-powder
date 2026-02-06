@@ -6,13 +6,13 @@ This repository contains the R scripts used for statistical analysis, product de
 2. Applied Multi-Criteria Decision Making (MCDM) to evaluate different recipes and identify the nutritional balance ingredient ratio.
 3. Support the valorization of an undervalued agricultural product and
 
-This repository includes R code to:\
-- Box-Behnken Design and analysis for drying conditions\
-- Multi-Criteria Decision Making (MCDM) for recipe evaluation\
-- Generate relevant visualizations\
+This repository includes R code to:
+- Box-Behnken Design and analysis for drying conditions
+- Multi-Criteria Decision Making (MCDM) for recipe evaluation
+- Generate relevant visualizations
 
-The knitted HTML reports can be found in the links below:\
-1. Box-Behnken Design for Drying: https://giangngantruong.github.io/Nutrition-powder/bbd-drying\
+The knitted HTML reports can be found in the links below:
+1. Box-Behnken Design for Drying: https://giangngantruong.github.io/Nutrition-powder/bbd-drying
 2. MCMD analysis: https://giangngantruong.github.io/Nutrition-powder/mcmd 
 
 ## Disclaimer
